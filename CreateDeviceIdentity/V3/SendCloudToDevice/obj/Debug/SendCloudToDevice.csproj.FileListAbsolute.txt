@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\CreateDeviceIdentity\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\CreateDeviceIdentity\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\CreateDeviceIdentity\SendCloudToDevice\bin\Debug\SendCloudToDevice.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\CreateDeviceIdentity\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\CreateDeviceIdentity\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\CreateDeviceIdentity\SendCloudToDevice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\CreateDeviceIdentity\SendCloudToDevice\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\CreateDeviceIdentity\SendCloudToDevice\bin\Debug\System.Web.Http.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\CreateDeviceIdentity\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\CreateDeviceIdentity\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\CreateDeviceIdentity\SendCloudToDevice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\CreateDeviceIdentity\SendCloudToDevice\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\CreateDeviceIdentity\SendCloudToDevice\bin\Debug\System.Web.Http.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\CreateDeviceIdentity\SendCloudToDevice\obj\Debug\SendCloudToDevice.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\CreateDeviceIdentity\SendCloudToDevice\obj\Debug\SendCloudToDevice.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\CreateDeviceIdentity\SendCloudToDevice\obj\Debug\SendCloudToDevice.pdb
