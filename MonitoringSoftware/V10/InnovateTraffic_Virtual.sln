@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnovateTraffic", "InnovateTraffic\InnovateTraffic.csproj", "{68324C7C-857F-4E4D-8B01-FF66D7D1C46D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Junction2", "Junction2\Junction2.csproj", "{CBDE6D11-C50B-4B19-B0DE-2611AF9FCC51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Junction1", "Junction1\Junction1.csproj", "{62D8CB67-7ED9-4723-82CA-86354BEA9185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68324C7C-857F-4E4D-8B01-FF66D7D1C46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68324C7C-857F-4E4D-8B01-FF66D7D1C46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68324C7C-857F-4E4D-8B01-FF66D7D1C46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68324C7C-857F-4E4D-8B01-FF66D7D1C46D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBDE6D11-C50B-4B19-B0DE-2611AF9FCC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBDE6D11-C50B-4B19-B0DE-2611AF9FCC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBDE6D11-C50B-4B19-B0DE-2611AF9FCC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBDE6D11-C50B-4B19-B0DE-2611AF9FCC51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D8CB67-7ED9-4723-82CA-86354BEA9185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D8CB67-7ED9-4723-82CA-86354BEA9185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D8CB67-7ED9-4723-82CA-86354BEA9185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D8CB67-7ED9-4723-82CA-86354BEA9185}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

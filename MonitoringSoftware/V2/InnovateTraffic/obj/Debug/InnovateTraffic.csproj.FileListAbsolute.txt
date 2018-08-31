@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\InnovateTraffic\InnovateTraffic\bin\Debug\InnovateTraffic.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\InnovateTraffic\InnovateTraffic\obj\Debug\InnovateTraffic.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\InnovateTraffic\InnovateTraffic\obj\Debug\InnovateTraffic.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\InnovateTraffic\InnovateTraffic\obj\Debug\InnovateTraffic.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\InnovateTraffic\InnovateTraffic\obj\Debug\InnovateTraffic.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\InnovateTraffic\InnovateTraffic\bin\Debug\InnovateTraffic.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\InnovateTraffic\InnovateTraffic\bin\Debug\InnovateTraffic.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\InnovateTraffic\InnovateTraffic\obj\Debug\InnovateTraffic.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\InnovateTraffic\InnovateTraffic\obj\Debug\InnovateTraffic.pdb

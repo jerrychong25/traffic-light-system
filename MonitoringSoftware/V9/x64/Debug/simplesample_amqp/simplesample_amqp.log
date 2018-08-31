@@ -1,0 +1,10 @@
+﻿iothub_client_amqp_transport.lib(iothub_client_ll.obj) : error LNK2005: IOTHUB_CLIENT_CONFIRMATION_RESULTStringStorage already defined in simplesample_amqp.obj
+iothub_client_amqp_transport.lib(iothub_client_ll.obj) : error LNK2005: IOTHUB_CLIENT_CONFIRMATION_RESULTStrings already defined in simplesample_amqp.obj
+iothub_client_amqp_transport.lib(iothub_client_ll.obj) : error LNK2005: IOTHUB_CLIENT_CONFIRMATION_RESULT_FromString already defined in simplesample_amqp.obj
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+aziotsharedutil.lib(httpapi_winhttp.obj) : error LNK2019: unresolved external symbol __imp_CryptDecodeObjectEx referenced in function HTTPAPI_CreateCrypto
+aziotsharedutil.lib(httpapi_winhttp.obj) : error LNK2019: unresolved external symbol __imp_CertCreateCertificateContext referenced in function HTTPAPI_CreateCrypto
+aziotsharedutil.lib(httpapi_winhttp.obj) : error LNK2019: unresolved external symbol __imp_CertFreeCertificateContext referenced in function HTTPAPI_CreateCrypto
+aziotsharedutil.lib(httpapi_winhttp.obj) : error LNK2019: unresolved external symbol __imp_CertSetCertificateContextProperty referenced in function HTTPAPI_CreateCrypto
+aziotsharedutil.lib(httpapi_winhttp.obj) : error LNK2019: unresolved external symbol __imp_CryptStringToBinaryA referenced in function HTTPAPI_CreateCrypto
+C:\Users\user\Documents\Visual Studio 2015\Projects\InnovateTraffic\x64\Debug\simplesample_amqp.exe : fatal error LNK1120: 5 unresolved externals
