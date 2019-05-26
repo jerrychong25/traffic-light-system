@@ -7,7 +7,10 @@ This is an IoT based system designed for project name "[Development of IoT devic
 ## Deployment
 
 A prototype is built for demonstration purpose, as per screenshot below:<br>
-Picture is temporarily not available
+<p align="center">
+  <img src="Screenshot1.png" alt="Software">
+  <img src="Screenshot2.png" alt="Prototype">
+</p>
 
 ## Built With
 
