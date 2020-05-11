@@ -1,7 +1,7 @@
 # Traffic Light System
 
 [![GitHub release](https://img.shields.io/github/release/jerrychong25/TrafficLightSystem.svg)](https://gitHub.com/jerrychong25/TrafficLightSystem/releases/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jerrychong25/TrafficLightSystem/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/jerrychong25/TrafficLightSystem/graphs/commit-activity)
 [![HitCount](http://hits.dwyl.com/jerrychong25/TrafficLightSystem.svg)](http://hits.dwyl.com/jerrychong25/TrafficLightSystem)
 
 ## Getting Started
