@@ -1,5 +1,9 @@
 # Traffic Light System
 
+[![GitHub release](https://img.shields.io/github/release/jerrychong25/TrafficLightSystem.svg)](https://gitHub.com/jerrychong25/TrafficLightSystem/releases/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jerrychong25/TrafficLightSystem/graphs/commit-activity)
+[![HitCount](http://hits.dwyl.com/jerrychong25/TrafficLightSystem.svg)](http://hits.dwyl.com/jerrychong25/TrafficLightSystem)
+
 ## Getting Started
 
 This is an IoT based system designed for project name "[Development of IoT device for traffic management system](https://ieeexplore.ieee.org/document/7810059)", which aim to mitigate city traffic congestion with Intel Edison and Microsoft Azure IoT cloud server.
@@ -23,7 +27,7 @@ A prototype is built for demonstration purpose, as per screenshot below:<br>
 
 ## Authors
 
-**Chong Hon Fong** - [jerrychong25](https://github.com/jerrychong25)<br>
+**Jerry Chong** - [jerrychong25](https://github.com/jerrychong25)<br>
 
 ## License
 
